@@ -6,10 +6,11 @@ My name is Muhammad Maher, also known as Flare, I'm a full-stack JavaScript deve
 - HTML
 - CSS
 - JavaScript
+- TypeScript
 - Boostrap
 - Tailwind
 - ReactJS
 - Svelte
 - NextJS
 - NodeJS
-- NextJS
+- NestJS
