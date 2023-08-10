@@ -5,7 +5,7 @@ My name is Muhammad Maher, I'm a JavaScript developer, Full-Stack web developer,
 ## <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="34px" /> About Me
 
 - :school: I'm an information systems student at [Higher Institute of Computer Science](https://www.cis.edu.eg/) in [New Cairo Academy](https://en.wikipedia.org/wiki/New_Cairo_Academy)
-- :technologist: I've been a programming since I was 8 years old, so programming takes a special place in my heart
+- :technologist: I've been programming since I was 8 years old, so programming takes a special place in my heart
 - :fire: I love competitive programming and problem-solving
 - :computer: I'm a Linux enthusiast, I use Linux as my primary operating system, but I also use Windows as a secondary operating system
 
