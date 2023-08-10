@@ -8,6 +8,7 @@ My name is Muhammad Maher, I'm a JavaScript developer, Full-Stack web developer,
 - :technologist: I've been programming since I was 8 years old, so programming takes a special place in my heart
 - :fire: I love competitive programming and problem-solving
 - :computer: I'm a Linux enthusiast, I use Linux as my primary operating system, but I also use Windows as a secondary operating system
+- :us: I'm a fluent English speaker, my level according to the CEFR framework is C2 (Arabic is my native tongue).
 
 ## <img src="https://media.giphy.com/media/K2QJEiQazftepF0uDU/giphy.gif" height="20px" /> My Skills
 
