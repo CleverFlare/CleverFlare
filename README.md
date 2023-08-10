@@ -12,11 +12,13 @@ My name is Muhammad Maher, I'm a JavaScript developer, Full-Stack web developer,
 
 ## <img src="https://media.giphy.com/media/K2QJEiQazftepF0uDU/giphy.gif" height="20px" /> My Skills
 
+> **NOTE:** This is only a brief of the technical skills I have
+
 ![Technologies Icons](https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,nodejs,express,nestjs,react,nextjs,regex,redux,materialui,postman,docker,figma,git,github,heroku,linux,postgres,mysql,mongodb,jest,vim,neovim,netlify,webpack,vite&perline=16)
 
 ## <img src="./message.gif" height="24px" /> Get in Touch
 
-click on any of the following badges:
+> **NOTE:** You can click on any of the following badges to jump to my profile
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=%23ffffff)](https://www.linkedin.com/in/muhammed-maher-a9942024a/)
 [![Static Badge](https://img.shields.io/badge/Whatsapp-success?logo=whatsapp&logoColor=%23ffffff)](https://wa.me/01014464684)
