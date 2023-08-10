@@ -13,8 +13,6 @@ My name is Muhammad Maher, I'm a JavaScript developer, Full-Stack web developer,
 
 ![Technologies Icons](https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,nodejs,express,nestjs,react,nextjs,regex,redux,materialui,postman,docker,figma,git,github,heroku,linux,postgres,mysql,mongodb,jest,vim,neovim,netlify,webpack,vite&perline=16)
 
-<br>
-
 Now if you'll excuse me, I'll get back to work now.
 
 ![Banner](/banner.gif)
