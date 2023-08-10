@@ -1,4 +1,4 @@
-![Header](./github-header-image.png)
+<img src="./github-header-image.png" alt="Header" />
 
 My name is Muhammad Maher, I'm a JavaScript developer, Full-Stack web developer, and a Linux enthusiast (I use Arch by the way 😁)
 
