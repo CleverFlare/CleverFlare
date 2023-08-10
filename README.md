@@ -16,6 +16,4 @@ My name is Muhammad Maher, I'm a JavaScript developer, Full-Stack web developer,
 
 Now if you'll excuse me, I'll get back to work now.
 
-<br>
-
 ![Banner](/banner.gif)
