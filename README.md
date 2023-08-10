@@ -14,6 +14,17 @@ My name is Muhammad Maher, I'm a JavaScript developer, Full-Stack web developer,
 
 ![Technologies Icons](https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,nodejs,express,nestjs,react,nextjs,regex,redux,materialui,postman,docker,figma,git,github,heroku,linux,postgres,mysql,mongodb,jest,vim,neovim,netlify,webpack,vite&perline=16)
 
+## <img src="./message.gif" height="24px" /> Get in Touch
+
+click on any of the following badges:
+
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=%23ffffff)](https://www.linkedin.com/in/muhammed-maher-a9942024a/)
+[![Static Badge](https://img.shields.io/badge/Whatsapp-success?logo=whatsapp&logoColor=%23ffffff)](https://wa.me/01014464684)
+[![Static Badge](https://img.shields.io/badge/Twitter-dodgerblue?logo=twitter&logoColor=%23ffffff)](https://twitter.com/muhamme78974262)
+[![Static Badge](https://img.shields.io/badge/Discord-slateblue?logo=discord&logoColor=%23ffffff)](https://discordapp.com/users/930580557878947911)
+
+#
+
 Now if you'll excuse me, I'll get back to work now.
 
 ![Banner](/banner.gif)
