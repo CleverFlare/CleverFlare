@@ -21,7 +21,7 @@ My name is Muhammad Maher, I'm a JavaScript developer, Full-Stack web developer,
 > **NOTE:** You can click on any of the following badges to jump to my profile
 
 [![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=%23ffffff)](https://www.linkedin.com/in/muhammed-maher-a9942024a/)
-[![Static Badge](https://img.shields.io/badge/Whatsapp-success?logo=whatsapp&logoColor=%23ffffff)](https://wa.me/01014464684)
+[![Static Badge](https://img.shields.io/badge/Whatsapp-success?logo=whatsapp&logoColor=%23ffffff)](https://wa.me/+201014464684)
 [![Static Badge](https://img.shields.io/badge/Twitter-dodgerblue?logo=twitter&logoColor=%23ffffff)](https://twitter.com/muhamme78974262)
 [![Static Badge](https://img.shields.io/badge/Discord-slateblue?logo=discord&logoColor=%23ffffff)](https://discordapp.com/users/930580557878947911)
 
