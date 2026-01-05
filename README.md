@@ -1,6 +1,6 @@
 <img src="./github-header-image.png" alt="Header" />
 
-My name is Muhammad Maher, I'm a JavaScript developer, Full-Stack web developer, and a Linux enthusiast (I use Arch by the way 😁)
+My name is Muhammad Maher, I'm a Full-stack web developer, a Rustacean, and a Linux enthusiast (I use Arch by the way 😁)
 
 ## <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="34px" /> About Me
 
@@ -14,7 +14,7 @@ My name is Muhammad Maher, I'm a JavaScript developer, Full-Stack web developer,
 
 > **NOTE:** This is only a brief of the technical skills I have
 
-![Technologies Icons](https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,nodejs,express,nestjs,react,nextjs,regex,redux,materialui,postman,docker,figma,git,github,heroku,linux,postgres,mysql,mongodb,jest,vim,neovim,netlify,webpack,vite,Rust&perline=16)
+![Technologies Icons](https://skillicons.dev/icons?i=html,css,javascript,typescript,bootstrap,tailwind,nodejs,express,nestjs,react,nextjs,regex,redux,materialui,postman,docker,figma,git,github,heroku,linux,postgres,mysql,mongodb,jest,vim,neovim,netlify,webpack,vite,rust&perline=16)
 
 ## <img src="./message.gif" height="24px" /> Get in Touch
 
