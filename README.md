@@ -20,9 +20,10 @@ My name is Muhammad Maher, I'm a Full-Stack web developer, a Rust learner, and a
 
 > **NOTE:** You can click on any of the following badges to jump to my profile
 
-[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=%23ffffff)](https://www.linkedin.com/in/glowing-flare/)
+[![Static Badge](https://img.shields.io/badge/My%20Website-orange?logoColor=orange)](https://maherlab.io/)
+[![Static Badge](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn&logoColor=%23ffffff)](https://www.linkedin.com/in/glowing-flare/)
 [![Static Badge](https://img.shields.io/badge/Whatsapp-success?logo=whatsapp&logoColor=%23ffffff)](https://wa.me/+201115807763)
-[![Static Badge](https://img.shields.io/badge/Twitter-dodgerblue?logo=twitter&logoColor=%23ffffff)](https://x.com/glowing_flare)
+[![Static Badge](https://img.shields.io/badge/X-black?logo=X&logoColor=%23ffffff)](https://x.com/glowing_flare)
 [![Static Badge](https://img.shields.io/badge/Discord-slateblue?logo=discord&logoColor=%23ffffff)](https://discordapp.com/users/930580557878947911)
 
 #
