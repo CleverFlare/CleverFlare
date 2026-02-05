@@ -1,6 +1,6 @@
 <img src="./linkedin banner.png" alt="Header" />
 
-My name is Muhammad Maher, I'm a Full-stack web developer, a Rustacean, and a Linux enthusiast (I use Arch by the way 😁)
+My name is Muhammad Maher, I'm a Full-stack web developer, a Rust learner, and a Linux enthusiast (I use Arch by the way 😁)
 
 ## <img src="https://media.giphy.com/media/b88QlTSTsj3bEHQyZf/giphy.gif" height="34px" /> About Me
 
