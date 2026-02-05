@@ -1,4 +1,4 @@
-<img src="./github-header-image.png" alt="Header" />
+<img src="./linkedin banner.png" alt="Header" />
 
 My name is Muhammad Maher, I'm a Full-stack web developer, a Rustacean, and a Linux enthusiast (I use Arch by the way 😁)
 
